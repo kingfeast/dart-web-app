@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29f0da96-1268-4549-a3c4-650bd9f815fd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,7 +17,7 @@
   <component name="DartProblemsView" auto-scroll-to-source="true" group-by-severity="false" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app_component.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app_component.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/app_component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -26,7 +26,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.html">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -52,7 +52,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="width" value="1282" />
     <option name="height" value="1057" />
@@ -130,24 +130,24 @@
       <workItem from="1530928915549" duration="157000" />
       <workItem from="1530929095359" duration="554000" />
       <workItem from="1530929671431" duration="173000" />
-      <workItem from="1530929866877" duration="1286000" />
+      <workItem from="1530929866877" duration="2768000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2518000" />
+    <option name="totallyTimeSpent" value="4000000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="1294" height="1057" extended-state="0" />
+    <frame x="-7" y="0" width="1282" height="1057" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.49921754" weight="0.32349727" />
-      <window_info active="true" anchor="bottom" x="1538" y="688" width="786" height="311" id="Event Log" order="7" sideWeight="0.7022293" side_tool="true" visible="true" weight="0.39013454" />
+      <window_info anchor="bottom" x="1538" y="688" width="786" height="311" id="Event Log" order="7" sideWeight="0.2596463" side_tool="true" visible="true" weight="0.39013454" />
       <window_info anchor="bottom" id="Dart Analysis" order="7" weight="0.30704522" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49921754" weight="0.32896176" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" x="1538" y="12" width="784" height="672" id="Terminal" order="7" sideWeight="0.2977707" visible="true" weight="0.39013454" />
-      <window_info content_ui="combo" x="28" y="10" width="295" height="1032" id="Project" order="0" sideWeight="0.58391607" visible="true" weight="0.14410828" />
+      <window_info active="true" anchor="bottom" x="1538" y="12" width="784" height="672" id="Terminal" order="7" sideWeight="0.7403537" visible="true" weight="0.39013454" />
+      <window_info content_ui="combo" x="28" y="10" width="295" height="1032" id="Project" order="0" sideWeight="0.58391607" visible="true" weight="0.1454984" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Dart Dev Server" order="7" sideWeight="0.49921754" weight="0.32896176" />
       <window_info x="1289" y="24" width="319" height="668" id="Structure" order="1" sideWeight="0.4160839" side_tool="true" type="WINDOWED" weight="0.25889164" />
@@ -326,15 +326,15 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/app_component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="29" selection-start-column="29" selection-end-column="29" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
